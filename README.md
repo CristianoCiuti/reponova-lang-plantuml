@@ -5,7 +5,7 @@ PlantUML diagram support for [RepoNova](https://github.com/CristianoCiuti/repono
 ## Install
 
 ```bash
-reponova lang add plantuml
+reponova lang add @reponova/lang-plantuml
 ```
 
 ## What it provides
