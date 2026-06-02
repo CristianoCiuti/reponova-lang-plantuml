@@ -1,7 +1,7 @@
 {
   "name": "@reponova/lang-plantuml",
   "version": "0.1.0",
-  "description": "PlantUML, SVG and image diagram support for RepoNova",
+  "description": "PlantUML support for RepoNova",
   "type": "module",
   "exports": {
     ".": "./dist/index.js"
