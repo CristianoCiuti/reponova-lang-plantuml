@@ -26,5 +26,11 @@
     "type": "language",
     "id": "plantuml",
     "extensions": [".puml", ".plantuml"]
-  }
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianoCiuti/reponova-lang-plantuml.git"
+  },
+  "homepage": "https://github.com/CristianoCiuti/reponova-lang-plantuml"
 }
